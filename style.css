@@ -4,6 +4,10 @@
 }
 
 body{
+    background-image: url("entrepreneur-1340649_1280.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center center; 
     display: flex;
     justify-content: center;
     align-items: center;
@@ -68,6 +72,7 @@ form input{
 
 .msg{
     margin: 2rem 0 rem 0;
+    font-size: 25px;
 }
 
 form button {
